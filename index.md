@@ -24,6 +24,7 @@ cover: true
 	}
 </style>
 
+<h2 class="h1" style="color: {{site.theme_color}}" id="description" >  </h2>
 
 **Developer:** Trapped Studios
 
@@ -40,7 +41,7 @@ cover: true
 **Press Contact:** trapped.dev@gmail.com
 
 
-<h2 class="h1" style="color: {{site.theme_color}}" id="description" >Description </h2>
+<h2 class="h1" style="color: {{site.theme_color}}"  >Description </h2>
 
 Artifacts of Eyru is a class based Roguelite first person shooter. Play as 4 classes as you delve into the dungeons of Eyru and claim powerful, game changing artifacts, fight brutally difficult bosses, and do your best to get stupidly overpowered.
 
@@ -61,17 +62,14 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
 
 <h2 class="h1" style="color: {{site.theme_color}}" > Images </h2>
 
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/warlock_vs_pirateKing.png">
-</figure>
-
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/wizard_faeForest.png">
-</figure>
-
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/tinker_courtOfTheEternalStar.png">
-</figure>
+<table><tr>
+<td style="width:33%;background:transparent;border:none;" >
+<img width="500" height="600" src="./assets/img/warlock_vs_pirateKing.png"></td>
+<td style="width:33%;background:transparent;border:none;">
+<img width="500" height="600" src="./assets/img/wizard_faeForest.png"></td>
+<td style="width:33%;background:transparent;border:none;">
+<img width="500" height="600" src="./assets/img/tinker_courtOfTheEternalStar.png"></td>
+</tr></table>
 
 <figure>
     <img align="right"  width="500" height="100" src="./assets/img/pirate_lostCourt.png">
