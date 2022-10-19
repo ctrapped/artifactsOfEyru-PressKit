@@ -71,14 +71,6 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
 <img width="500" height="600" src="./assets/img/tinker_courtOfTheEternalStar.png"></td>
 </tr></table>
 
-<table><tr>
-<td style="width:33%;background:transparent;border:none;" >
-<img width="500" height="600" src="./assets/img/pirate_lostCourt.png"></td>
-<td style="width:33%;background:transparent;border:none;">
-<img width="500" height="600" src="./assets/img/warlock_artifact.png"></td>
-<td style="width:33%;background:transparent;border:none;">
-<img width="500" height="600" src="./assets/img/pirate_oracleHut.png"></td>
-</tr></table>
 
 <table><tr>
 <td style="width:33%;background:transparent;border:none;" >
@@ -87,6 +79,15 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
 <img width="500" height="600" src="./assets/img/rubberBullets.png"></td>
 <td style="width:33%;background:transparent;border:none;" >
 <img width="500" height="600" src="./assets/img/artifactsOfEyruDagda.png"></td>
+</tr></table>
+
+<table><tr>
+<td style="width:33%;background:transparent;border:none;" >
+<img width="500" height="600" src="./assets/img/pirate_lostCourt.png"></td>
+<td style="width:33%;background:transparent;border:none;">
+<img width="500" height="600" src="./assets/img/warlock_artifact.png"></td>
+<td style="width:33%;background:transparent;border:none;">
+<img width="500" height="600" src="./assets/img/pirate_oracleHut.png"></td>
 </tr></table>
 
 
