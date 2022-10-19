@@ -52,7 +52,7 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
 <h2 class="h1" style="color: {{site.theme_color}}" id="features" > Features </h2>
 
   * **Play as one of four classes**, each with three distinct talent trees. You start each run at level 1, allowing you to experiment with different builds.  As the Warlock, you can summon an army of demons, command the souls of your defeated enemies, or unleash a torrent of eldritch tentacles. The Tinker can construct an arsenal of gadgets, perfect the art of assassination, or just keep chucking grenades. With the Wizard, you can conduct experiments in unstable plasma explosions, deadly gravitational forces, or turning enemies into quantum rats. If you like things more straightforward, the Pirate can smack things harder, redirect enemy attacks, or steal even more loot!
-  * **Unlock Permanent upgrades** - The various characters in the Hub world can unlock various upgrades for you. Increase the number of keys, potions, and coins you start with, your maximum health, the experience you receive, and much more by spending the Mist you collect from defeating bosses. Purchase new Artifacts to find during runs from the Dust you find from looting power ups. Upgrade and unlock new starting weapons from with the Fae Moss you find hidden throughout levels.
+  * **Unlock Permanent upgrades** - The various characters in the Hub world can unlock various upgrades for you. Increase the number of keys, potions, and coins you start with, your maximum health, the experience you receive, and much more by spending the Mist you collect from defeating bosses. Purchase new Artifacts to find during runs from the Dust you find from looting power ups. Upgrade and unlock new starting weapons with the Fae Moss you find hidden throughout levels.
   * **Play as one of four classes** - Each class has 12 unlockable skins, as well as the ability to change the appearance of various key abilities and spells. All cosmetic upgrades are unlockable with in game currencies and there are no microtransactions.
   * **Challenge Modes** – For players who manage to defeat the final boss, there are 100+ customizable challenge options in the vein of Hades’ Heat Levels.  Increase enemy damage, health, or speed; reduce the effectiveness of potions; or give bosses powerful new abilities. Completing challenge modes are required to fully unlock all customizations and starting weapon upgrades.
 
@@ -83,6 +83,10 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
 <table><tr>
 <td style="width:33%;background:transparent;border:none;" >
 <img width="500" height="600" src="./assets/img/warlock_coir_small.png"></td>
+<td style="width:33%;background:transparent;border:none;" >
+<img width="500" height="600" src="./assets/img/rubberBullets.png"></td>
+<td style="width:33%;background:transparent;border:none;" >
+<img width="500" height="600" src="./assets/img/artifactsOfEyruDagda.png"></td>
 </tr></table>
 
 
@@ -92,7 +96,7 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
 <td style="width:33%;background:transparent;border:none;" >
 <img width="500" height="600" src="./assets/img/artifactsOfEyru_Logo.png"></td>
 <td style="width:33%;background:transparent;border:none;">
-<img width="500" height="600" src="./assets/img/artifactsOfEyru_Icon.png"></td>
+<img width="200" height="200" src="./assets/img/artifactsOfEyru_Icon.png"></td>
 <td style="width:33%;background:transparent;border:none;">
 <img width="500" height="600" src="./assets/img/trappedStudioLogo.png"></td>
 </tr></table>
