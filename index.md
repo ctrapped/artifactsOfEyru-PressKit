@@ -25,9 +25,6 @@ cover: true
 </style>
 
 
-
-<h2 class="h1" style="color: {{site.theme_color}}" id="about">Press Kit </h2>
-
 **Developer:** Trapped Studios
 
 **Release Date:** October 26th, 2022
@@ -47,18 +44,18 @@ cover: true
 
 Artifacts of Eyru is a class based Roguelite first person shooter. Play as 4 classes as you delve into the dungeons of Eyru and claim powerful, game changing artifacts, fight brutally difficult bosses, and do your best to get stupidly overpowered.
 
-<h2 class="h1" style="color: {{site.theme_color}}" > History </h2>
+<h2 class="h1" style="color: {{site.theme_color}}"  > History </h2>
 
 The idea for Artifacts of Eyru was initially developed as a DnD one shot based on Irish mythology. The gameplay was inspired heavily by The Binding of Isaac, especially with respect to the power ups. Development on the game was started at the start of the Covid-19 pandemic by a one-man team with no prior game development experience due to the unexpected influx of free time.
 
-<h2 class="h1" style="color: {{site.theme_color}}" > Features </h2>
+<h2 class="h1" style="color: {{site.theme_color}}" id="features" > Features </h2>
 
   * **Play as one of four classes**, each with three distinct talent trees. You start each run at level 1, allowing you to experiment with different builds.  As the Warlock, you can summon an army of demons, command the souls of your defeated enemies, or unleash a torrent of eldritch tentacles. The Tinker can construct an arsenal of gadgets, perfect the art of assassination, or just keep chucking grenades. With the Wizard, you can conduct experiments in unstable plasma explosions, deadly gravitational forces, or turning enemies into quantum rats. If you like things more straightforward, the Pirate can smack things harder, redirect enemy attacks, or steal even more loot!
   * **Unlock Permanent upgrades** - The various characters in the Hub world can unlock various upgrades for you. Increase the number of keys, potions, and coins you start with, your maximum health, the experience you receive, and much more by spending the Mist you collect from defeating bosses. Purchase new Artifacts to find during runs from the Dust you find from looting power ups. Upgrade and unlock new starting weapons from with the Fae Moss you find hidden throughout levels.
   * **Play as one of four classes** - Each class has 12 unlockable skins, as well as the ability to change the appearance of various key abilities and spells. All cosmetic upgrades are unlockable with in game currencies and there are no microtransactions.
   * **Challenge Modes** – For players who manage to defeat the final boss, there are 100+ customizable challenge options in the vein of Hades’ Heat Levels.  Increase enemy damage, health, or speed; reduce the effectiveness of potions; or give bosses powerful new abilities. Completing challenge modes are required to fully unlock all customizations and starting weapon upgrades.
 
-<h2 class="h1" style="color: {{site.theme_color}}" > Trailer </h2>
+<h2 class="h1" style="color: {{site.theme_color}}" id="media"> Trailer </h2>
 
 <h2 class="h1" style="color: {{site.theme_color}}" > Images </h2>
 
@@ -66,7 +63,7 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
 
 ---
 
-<h2 class="h1" style="color: {{site.theme_color}}" > About Trapped Studios </h2>
+<h2 class="h1" style="color: {{site.theme_color}}" id="studio"> About Trapped Studios </h2>
 I am a solo-developer based in San Diego, California. I am primarily a PhD candidate studying Computational Astrophysics. I got into game design both to entertain myself during the Covid-19 pandemic as well as procrastinate working on my research that I should definitely start focusing on more.
 
 
@@ -77,7 +74,7 @@ I am a solo-developer based in San Diego, California. I am primarily a PhD candi
 
 <div class="body-social sidebar-social">
   <ul>
-    <li> <a href="https://twitter.com/cchoban" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Twitter profile</span></a></li>
+    <li> <a href="https://twitter.com/artifactsOfEyru" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Twitter profile</span></a></li>
     
   </ul>
 </div>

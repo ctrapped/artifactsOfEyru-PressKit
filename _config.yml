@@ -48,15 +48,15 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About
-    url:               /#about
-  - title:             Research
-    url:               /#research
-  - title:             Publications
-    url:               /#publications
-  - title:             Contact
-    url:               /#contact
-  - title:             CV
+  - title:             Description
+    url:               /#description
+  - title:             Features
+    url:               /#features
+  - title:             Media
+    url:               /#media
+  - title:             Studio
+    url:               /#studio
+  - title:             Download All Images
     url:               /assets/files/cchoban_CV.pdf
 
 # Add links to the footer.
