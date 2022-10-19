@@ -56,15 +56,14 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
   * **Challenge Modes** – For players who manage to defeat the final boss, there are 100+ customizable challenge options in the vein of Hades’ Heat Levels.  Increase enemy damage, health, or speed; reduce the effectiveness of potions; or give bosses powerful new abilities. Completing challenge modes are required to fully unlock all customizations and starting weapon upgrades.
 
 <h2 class="h1" style="color: {{site.theme_color}}" id="media"> Trailer </h2>
-<!-- Put image and youtube video in a table to make them side by side -->
-<table><tr>
-<td style="width:50%;background:transparent;border:none;" >
-<img width="500" height="600" src="./assets/img/dust_no_dust_galaxy.jpg"></td>
-<td style="width:50%;background:transparent;border:none;">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vITVi4tqVY4&t=2s" frameborder="0" allow="encrypted-media;" allowfullscreen></iframe></td>
-</tr></table>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vITVi4tqVY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 class="h1" style="color: {{site.theme_color}}" > Images </h2>
+
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/2019_space_day.jpg">
+</figure>
 
 <h2 class="h1" style="color: {{site.theme_color}}" > Logo & Icon </h2>
 
