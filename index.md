@@ -28,15 +28,22 @@ cover: true
 
 <h2 class="h1" style="color: {{site.theme_color}}" id="about">Press Kit </h2>
 
-Developer: Trapped Studios
-Release Date: October 26th, 2022
-Platforms: PC (Steam + itch.io)
-Price: $6.99 (demo available at release)
-Availability: Digital Download
-Languages: English
-Press Contact: trapped.dev@gmail.com
+**Developer:** Trapped Studios
 
-<h2 class="h1" style="color: {{site.theme_color}}" >Description </h2>
+**Release Date:** October 26th, 2022
+
+**Platforms:** PC (Steam + itch.io)
+
+**Price:** $6.99 (demo available at release)
+
+**Availability:** Digital Download
+
+**Languages:** English
+
+**Press Contact:** trapped.dev@gmail.com
+
+
+<h2 class="h1" style="color: {{site.theme_color}}" id="description" >Description </h2>
 
 Artifacts of Eyru is a class based Roguelite first person shooter. Play as 4 classes as you delve into the dungeons of Eyru and claim powerful, game changing artifacts, fight brutally difficult bosses, and do your best to get stupidly overpowered.
 
