@@ -1,9 +1,9 @@
 ---
 layout: page
 name: index
-title: Caleb Choban
+title: Artifacts of Eyru
 description: >
-  Personal Website of Caleb Choban, a PhD student in Physics at UC San Diego.
+  Press Kit for Artifacts of Eyru
 hide_description: true
 cover: true
 ---
