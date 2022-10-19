@@ -71,35 +71,32 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
 <img width="500" height="600" src="./assets/img/tinker_courtOfTheEternalStar.png"></td>
 </tr></table>
 
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/pirate_lostCourt.png">
-</figure>
+<table><tr>
+<td style="width:33%;background:transparent;border:none;" >
+<img width="500" height="600" src="./assets/img/pirate_lostCourt.png"></td>
+<td style="width:33%;background:transparent;border:none;">
+<img width="500" height="600" src="./assets/img/warlock_artifact.png"></td>
+<td style="width:33%;background:transparent;border:none;">
+<img width="500" height="600" src="./assets/img/pirate_oracleHut.png"></td>
+</tr></table>
 
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/warlock_artifact.png">
-</figure>
+<table><tr>
+<td style="width:33%;background:transparent;border:none;" >
+<img width="500" height="600" src="./assets/img/warlock_coir_small.png"></td>
+</tr></table>
 
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/pirate_oracleHut.png">
-</figure>
-
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/warlock_coir_small.png">
-</figure>
 
 <h2 class="h1" style="color: {{site.theme_color}}" > Logo & Icon </h2>
 
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/artifactsOfEyru_Logo.png">
-</figure>
+<table><tr>
+<td style="width:33%;background:transparent;border:none;" >
+<img width="500" height="600" src="./assets/img/artifactsOfEyru_Logo.png"></td>
+<td style="width:33%;background:transparent;border:none;">
+<img width="500" height="600" src="./assets/img/artifactsOfEyru_Icon.png"></td>
+<td style="width:33%;background:transparent;border:none;">
+<img width="500" height="600" src="./assets/img/trappedStudioLogo.png"></td>
+</tr></table>
 
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/artifactsOfEyru_Icon.png">
-</figure>
-
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/trappedStudioLogo.png">
-</figure>
 
 ---
 
