@@ -6,7 +6,7 @@ description: >
   Press Kit for Artifacts of Eyru
 hide_description: true
 cover: true
----
+
 <!-- <script type="text/javascript">
 	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
 </script> -->
@@ -62,20 +62,52 @@ The idea for Artifacts of Eyru was initially developed as a DnD one shot based o
 <h2 class="h1" style="color: {{site.theme_color}}" > Images </h2>
 
 <figure>
-    <img align="right"  width="500" height="100" src="./assets/img/2019_space_day.jpg">
+    <img align="right"  width="500" height="100" src="./assets/img/warlock_vs_pirateKing.png">
+</figure>
+
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/wizard_faeForest.png">
+</figure>
+
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/tinker_courtOfTheEternalStar.png">
+</figure>
+
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/pirate_lostCourt.png">
+</figure>
+
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/warlock_artifact.png">
+</figure>
+
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/pirate_oracleHut.png">
+</figure>
+
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/warlock_coir_small.png">
 </figure>
 
 <h2 class="h1" style="color: {{site.theme_color}}" > Logo & Icon </h2>
 
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/artifactsOfEyru_Logo.png">
+</figure>
+
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/artifactsOfEyru_Icon.png">
+</figure>
+
+<figure>
+    <img align="right"  width="500" height="100" src="./assets/img/trappedStudioLogo.png">
+</figure>
 ---
 
 <h2 class="h1" style="color: {{site.theme_color}}" id="studio"> About Trapped Studios </h2>
 I am a solo-developer based in San Diego, California. I am primarily a PhD candidate studying Computational Astrophysics. I got into game design both to entertain myself during the Covid-19 pandemic as well as procrastinate working on my research that I should definitely start focusing on more.
 
 
-<figure>
-    <img align="right"  width="500" height="100" src="./assets/img/2019_space_day.jpg">
-</figure>
 
 
 <div class="body-social sidebar-social">
