@@ -6,7 +6,7 @@ description: >
   Press Kit for Artifacts of Eyru
 hide_description: true
 cover: true
-
+---
 <!-- <script type="text/javascript">
 	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
 </script> -->
